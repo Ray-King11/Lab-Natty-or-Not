@@ -28,3 +28,8 @@ Criar algo "natty" com IA é um desafio constante. A IA nos oferece um conjunto 
 
 [IA generativa na AWS ](https://aws.amazon.com/pt/ai/generative-ai/?gclid=Cj0KCQjwrKu2BhDkARIsAD7GBosZUARLhiSWGqGs0PNd_Kr3RL8a--_1ahHs6y-7OyHa8EGVQMQ7OiAaAr30EALw_wcB&trk=b546b4fb-1884-4717-aebd-3196431fc58c&sc_channel=ps&ef_id=Cj0KCQjwrKu2BhDkARIsAD7GBosZUARLhiSWGqGs0PNd_Kr3RL8a--_1ahHs6y-7OyHa8EGVQMQ7OiAaAr30EALw_wcB:G:s&s_kwcid=AL!4422!3!686171157485!e!!g!!ia%20generativa!20894978139!160955782767)
 
+## Lincence
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
